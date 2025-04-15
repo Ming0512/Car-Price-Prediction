@@ -1,0 +1,5 @@
+How to run:
+1. Train the model over the desired iterations main_model.py
+2. Once the best model parameters is obtained it will save it as LinearRegressionModel.pkl
+3. Load the model parameters and run the inference.py to predict the price
+Note: Preprocessing cleans up the unnecessary samples and we train the model over cleaned dataset
